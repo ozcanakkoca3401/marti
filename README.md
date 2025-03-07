@@ -74,3 +74,10 @@ Components:
 3. Follow iOS best practices
 4. Document code when necessary
 5. Use Git version control effectively
+
+
+<img width="697" alt="Screenshot 2025-03-07 at 20 00 34" src="https://github.com/user-attachments/assets/547a5b17-f22c-44cd-a8e8-b7921b430283" />
+<img width="697" alt="Screenshot 2025-03-07 at 20 00 34" src="https://github.com/user-attachments/assets/83f82fee-5454-4b61-8b69-b07ab82091be" />
+<img width="697" alt="Screenshot 2025-03-07 at 20 00 34" src="https://github.com/user-attachments/assets/4df4d8e5-3c1e-459a-b110-31d3ca063639" />
+
+   
