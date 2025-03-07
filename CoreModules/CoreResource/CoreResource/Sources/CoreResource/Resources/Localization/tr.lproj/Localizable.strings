@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Ozcan Akkoca on 7.01.2024.
+  
+*/
+
+
+// Home
+"home_title" = "Martı";
+"home_start_tracking" = "Start Tracking";
+"home_stop_tracking" = "Stop Tracking";
+"home_reset_route" = "Reset Route";
+"home_location_access_required" = "Location Access Required";
+"home_location_permission_message" = "Please enable location services in Settings to use this feature.";
+"home_settings" = "Settings";
+"home_cancel" = "Cancel";
+"home_location_update" = "Location Update";
+"home_start" = "Start";
+
